@@ -31,18 +31,24 @@ h1 {
   font-family: fantasy;
   color: orange;
   font-size: 36px;
-  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 p {
   font-family: system-ui;
   color: green;
   font-size: 26px;
-  position: absolute;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 img {
   display: block;
   margin: auto;
   width: 40%;
-  position: absolute;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
