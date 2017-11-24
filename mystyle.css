@@ -10,9 +10,13 @@ body {
 
 a {			
     text-decoration: none;	
-    color: #FFFFFF;
+    color: #14BAE4;
 }		
  		
 a:hover {		
-    color: #000;		
+    color: #0A5D72;		
+}
+
+a:visited {
+  color: #052E39;
 }
