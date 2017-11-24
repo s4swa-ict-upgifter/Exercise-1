@@ -1,7 +1,6 @@
 body {
   background-color: #D3D3D3;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 36px;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -26,4 +25,16 @@ table {
 
 table, th, td {
     border: 1px solid black;
+}
+
+h1 {
+  font-family: fantasy;
+  color: orange;
+  font-size: 36px;
+}
+
+p {
+  font-family: system-ui;
+  color: green;
+  font-size: 26px;
 }
