@@ -61,11 +61,12 @@ section {
   -webkit-transform-style: preserve-3d;
   -moz-transform-style: preserve-3d;
   transform-style: preserve-3d;
-  img, p {
+}
+
+img, p {
     padding: 1em;
     margin: 0;
   }
-}
 
 .block-of-text {
   height: 220px;
@@ -76,8 +77,9 @@ section {
   color: white;
   font-size: 12px;
   margin-top: 3em;
-  a {
+}
+
+a {
     text-decoration: none;
     color: #E74C3C;
   }
-}
