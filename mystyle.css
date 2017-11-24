@@ -20,3 +20,10 @@ a:hover {
 a:visited {
   color: #052E39;
 }
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
