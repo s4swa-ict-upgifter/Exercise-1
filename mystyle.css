@@ -31,10 +31,18 @@ h1 {
   font-family: fantasy;
   color: orange;
   font-size: 36px;
+  text-align: center;
 }
 
 p {
   font-family: system-ui;
   color: green;
   font-size: 26px;
+  position: absolute;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+  position: absolute;
 }
