@@ -14,6 +14,16 @@
   transform: translateY(-50%);
 }
 
+.putin {
+  width: 40%;
+  height: 30%;
+}
+
+.kim {
+  width: 40%;
+  height: 30%;
+}
+
 .block-of-text p {
   position: relative;
   top: 50%;
